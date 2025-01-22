@@ -7,6 +7,10 @@ A comprehensive guide to design and development best practices, including respon
 
 Welcome to the repository where we document various design and development best practices.
 
+## Disclaimer
+
+I am not a hardcore expert, but I am passionate about gathering and organizing information for future reference and learning. My goal is to create a structured and accessible repository of knowledge that can benefit others. If you would like to contribute or collaborate, your expertise and insights are most welcome. Together, we can build something valuable and impactful.
+
 ## Topics:
 - [Responsive Design](docs/responsive-design/index.md)
 - [Color Theory](docs/color-theory/index.md)
@@ -46,3 +50,4 @@ Feel free to navigate through the sections and explore our design and coding gui
 
 ## Icons
 - Scale based on usage: **small**, **medium**, or **large**.
+
